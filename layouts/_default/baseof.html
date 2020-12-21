@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ block "title" . }}
+            {{ .Site.Title }}
+        {{ end }}</title>
+    </head>
+    <body>
+        <nav>
+            <a href="/">Home</a>
+            <!-- https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers -->
+            {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}">{{ .Title }}</a>
+            {{ end }}
+        </nav>
+        {{ block "main" . }}
+            <main>
+            </main>
+        {{ end }}
+    </body>
+</html>

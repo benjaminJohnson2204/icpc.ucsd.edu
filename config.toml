@@ -1,0 +1,17 @@
+baseURL = "http://icpc.ucsd.edu/"
+languageCode = "en-us"
+title = "Competitive Programming at UCSD"
+
+[menu]
+  [[menu.main]]
+    identifier = "news"
+    name = "News section"
+    title = "News"
+    url = "/news/"
+  [[menu.main]]
+    identifier = "about"
+    name = "About section"
+    title = "About"
+    url = "/about"
+      
+
