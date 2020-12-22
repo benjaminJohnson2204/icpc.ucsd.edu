@@ -13,5 +13,10 @@ title = "Competitive Programming at UCSD"
     name = "About section"
     title = "About"
     url = "/about"
+  [[menu.main]]
+    identifier = "calendar"
+    name = "Event calendar"
+    title = "Calendar"
+    url = "/calendar"
       
 
