@@ -1,0 +1,50 @@
+
+/* Color guidance:
+ * https://ucpa.ucsd.edu/brand/elements/color-palette/
+ * https://ucpa.ucsd.edu/brand/applications/web/
+ */
+.topbar {
+    background-color: #006A96; /*#B6B1A9;*/
+}
+
+.navbar {
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+
+.navbar a {
+    margin: auto;
+    color: #FFFFFF; /* #000000 */
+    text-decoration: none;
+    font-size: large;
+}
+
+.navbar a:hover {
+    color: #F3E500; /* #182B49; */
+    /*font-weight: bold;*/
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+main {
+    line-height: 1.5;
+    padding: 20px;
+}
+
+main ul {
+    list-style-type: circle;
+}
+
+main li {
+    margin: 0.25em;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
