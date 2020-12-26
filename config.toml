@@ -12,11 +12,15 @@ title = "Competitive Programming at UCSD"
     identifier = "about"
     name = "About section"
     title = "About"
-    url = "/about"
+    url = "/about/"
   [[menu.main]]
     identifier = "calendar"
     name = "Event calendar"
     title = "Calendar"
-    url = "/calendar"
-      
+    url = "/calendar/"
+  [[menu.main]]
+    identifier = "resources"
+    name = "Competitve programming resources"
+    title = "Resources"
+    url = "/resources/"
 
