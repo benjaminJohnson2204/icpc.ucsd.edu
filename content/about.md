@@ -16,6 +16,8 @@ The current leadership is:
 
 We are looking for more principle members, especially Freshmen and Sophomores.
 
+Join our [Slack workspce](https://join.slack.com/t/ucsdcp/signup) if you want to connect with us and discuss about interesting problems.
+
 ## Past Competitions
 
 

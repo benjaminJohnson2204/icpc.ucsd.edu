@@ -11,6 +11,8 @@ with computer algorithms and to compete in algorithic programming competitions.
 Our primary focus is preparing for and competing in the yearly
 [International Collegiate Programming Contest (ICPC)](https://icpc.global/). 
 
+We compete at [SoCal ICPC region](http://socalcontest.org/current/index.shtml).
+
 This site is currently under heavy construction. 
 
 ## Upcoming Events
@@ -20,6 +22,9 @@ This site is currently under heavy construction.
   subject areas. *All skill levels welcome*!
 - The UCSD qualifying contest for the 2020 ICPC regional will be on January 30,
   from [12:30-5:30 PM PST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201221T123000&p1=770).
+- The 2020 ICPC SoCal regional will be held remotely on February 21, 2021. 
+  [Here are the rules for 2020 ICPC North American regionals](http://socalcontest.org/current/2020_2021/ICPC-North-America-Announcement.pdf).
+- To see if you are eligible for the ICPC 2020 regionals, please follow this [chart](https://icpc.global/newcms/regionals/rules/EligibilityDecisionTree-2020.pdf).
 - [Practice contests](https://www.icpc.org/icpc-north-america-practice-contest)
   are available regularly on the weekends organized through ICPC North America.
 

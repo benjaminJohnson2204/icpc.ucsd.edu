@@ -9,7 +9,8 @@ draft: false
 Here are some resources for learning and practicing competitive programming.
 
 ## Learning Resources
-- [UIUC CS491 Course](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/syllabus/)
+- Introductory course: [UCSD CSE 190 Course](https://shangjingbo1226.github.io/2020-winter-CSE190-CAP)
+- Advanced course: [UIUC CS491 Course](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/syllabus/)
 - [Competitive Programming book](https://cpbook.net/) -- the newer editions are
   available for purchase and the 1st edition is available as a PDF 
   [here](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp1.pdf).
