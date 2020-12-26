@@ -8,7 +8,7 @@
         <!-- https://stackoverflow.com/questions/21968677/css-not-working-in-mobile-browsers -->
         <meta name="viewport" content="width=device-width; initial-scale=1.0;">
         {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ $style.Permalink }}">
+        <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     </head>
     <body>
         <div class="topbar">
