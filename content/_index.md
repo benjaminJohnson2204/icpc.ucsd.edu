@@ -6,7 +6,7 @@ draft: false
 
 Welcome to the homepage for competitive programming at UCSD. We are a
 student-org organized to help students learn techniques for solving problems 
-with computer algorithms and to compete in algorithic programming competitions.
+with computer algorithms and to compete in algorithmic programming competitions.
 
 Our primary focus is preparing for and competing in the yearly
 [International Collegiate Programming Contest (ICPC)](https://icpc.global/). 
