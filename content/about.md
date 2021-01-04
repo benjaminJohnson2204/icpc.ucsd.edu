@@ -17,8 +17,11 @@ The current leadership is:
 
 We are looking for more principal members, especially Freshmen and Sophomores.
 
-Join our [Slack workspce](https://join.slack.com/t/ucsdcp/signup) if you want to connect with us and discuss about interesting problems.
+The official team email is [icpc@ucsd.edu](mailto:icpc@ucsd.edu), though you can
+also copy leadership members. Our main form of communication is our
+[Slack workspace](https://join.slack.com/t/ucsdcp/signup), so join if you want
+to connect with us and discuss interesting problems.
 
 ## Past Competitions
-
-
+In 2019, we sent four teams to the SoCal ICPC Regional, and our best team placed
+third. That team went on to participate in the North American Championship.
