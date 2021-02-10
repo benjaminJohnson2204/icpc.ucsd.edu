@@ -26,7 +26,7 @@ This site is currently under heavy construction.
   subject areas. *All skill levels welcome!*
 - The UCSD qualifying contest for the 2020 ICPC regional will be on January 30,
   from [12:30-5:30 PM PST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201221T123000&p1=770).
-- The 2020 ICPC SoCal regional will be held remotely on February 21, 2021. 
+- The 2020 ICPC SoCal regional will be held remotely on February 27, 2021. 
   [Here are the rules for 2020 ICPC North American regionals](http://socalcontest.org/current/2020_2021/ICPC-North-America-Announcement.pdf).
 - To see if you are eligible for the ICPC 2020 regionals, please follow this 
   [chart](https://icpc.global/newcms/regionals/rules/EligibilityDecisionTree-2020.pdf).
