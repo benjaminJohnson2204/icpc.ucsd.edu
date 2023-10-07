@@ -6,5 +6,6 @@ UCSD.
 ## Instructions
 
 1. Install [Hugo](https://gohugo.io/).
-2. Install rsync if you want to update the website.
-3. Run `update_public_site.sh` to update the website. You must have the proper credentials.
+2. You can test with a website on your localhost by running `hugo server -D`
+3. Install rsync if you want to update the website.
+4. Run `update_public_site.sh` to update the website. You must have the proper credentials.

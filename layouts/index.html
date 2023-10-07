@@ -1,9 +1,12 @@
-
 {{ define "main" }}
     <main>
         <h1>{{ .Title }}</h1>
         <div class="homepage-content">
+            
             {{ .Content }}
+            {{ $image := resources.Get "images/ucsd_team_2.jpeg" }}
+	        <img src="{{ ( $image.Resize "927x" ).RelPermalink }}" />
         </div>
     </main>
 {{ end }}
+

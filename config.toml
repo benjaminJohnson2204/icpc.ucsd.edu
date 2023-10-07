@@ -1,26 +1,20 @@
 baseURL = "https://icpc.ucsd.edu/"
 languageCode = "en-us"
-title = "Competitive Programming at UCSD"
+title = "Competitive Programming Club at UC San Diego"
 
 [menu]
   [[menu.main]]
-    identifier = "news"
-    name = "News section"
-    title = "News"
-    url = "/news/"
+    identifier = "teams"
+    name = "main-0"
+    title = "Teams"
+    url = "/teams/"
   [[menu.main]]
-    identifier = "about"
-    name = "About section"
-    title = "About"
-    url = "/about/"
+    identifier = "Contact"
+    name = "main-1"
+    title = "Contact Us"
+    url = "/contact/"
   [[menu.main]]
-    identifier = "calendar"
-    name = "Event calendar"
-    title = "Calendar"
-    url = "/calendar/"
-  [[menu.main]]
-    identifier = "resources"
-    name = "Competitve programming resources"
+    identifier = "Resources"
+    name = "main-2"
     title = "Resources"
     url = "/resources/"
-

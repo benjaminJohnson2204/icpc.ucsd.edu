@@ -6,22 +6,21 @@ draft: false
 
 # About
 
-The Competitive Programming Club at UCSD is an undergraduate student organization.
+The Competitive Programming Club at UCSD is a student-led organization.
 The current leadership is:
 
-- President: [Mohit Gurumukhani](mailto:mgurumuk@ucsd.edu)
-- Principal Member: [Max Morehead](mailto:mmorehea@ucsd.edu)
-- Principal Member: Cameron Trando
-- Faculty Advisor: [Jingbo Shang](https://shangjingbo1226.github.io/)
-- Faculty Advisor: [Joe Politz](https://jpolitz.github.io/)
+- President: [Zihan Wang](mailto:ziw224@ucsd.edu)
+- Principal Member: Kewen Zhao, Sunwoo Kim
+- Coaching Team: Zihan Wang, Shuxin Chen
+- Faculty Advisor: [Jingbo Shang](https://shangjingbo1226.github.io/), [Joe Politz](https://jpolitz.github.io/)
 
-We are looking for more principal members, especially Freshmen and Sophomores.
+Club Social Media:
+Instagram: @icpc_ucsd [ICPC UCSD instagram](https://www.instagram.com/icpc_ucsd/)  
+Facebook group: ICPC at UCSD [Facebook Group](https://www.facebook.com/groups/461420271847583)
 
-The official team email is [icpc@ucsd.edu](mailto:icpc@ucsd.edu), though you can
-also copy leadership members. Our main form of communication is our
-[Slack workspace](https://join.slack.com/t/ucsdcp/signup), so join if you want
-to connect with us and discuss interesting problems.
+We are looking for more principal members!
 
-## Past Competitions
-In 2019, we sent four teams to the SoCal ICPC Regional, and our best team placed
-third. That team went on to participate in the North American Championship.
+If you have any questions, the current email to contact it [ziw224@ucsd.edu](mailto:ziw224@ucsd.edu). 
+Our main form of communication is our [Slack workspace](https://join.slack.com/t/ucsdcp/signup), 
+so join if you want to connect with us and discuss interesting problems.  
+Also, ask any questions through our Instagram DM as well! It is open for anyone who is interested.
