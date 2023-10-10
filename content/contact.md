@@ -12,7 +12,6 @@ To join the club, simply join the Slack channel
 
 ### Social Media:  
 Instagram: @icpc_ucsd [ICPC UCSD instagram](https://www.instagram.com/icpc_ucsd/)  
-Facebook group: ICPC at UCSD [Facebook Group](https://www.facebook.com/groups/461420271847583)
 
 ### Email:
 If you have any questions, please contact h2mao@ucsd.edu.
