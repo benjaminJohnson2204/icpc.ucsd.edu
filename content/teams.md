@@ -7,17 +7,22 @@ draft: false
 ## The Leadership Team
 
 The current board members are:
-- **President**: Stanislaw Strzelecki 
-- **Admin**: Raymond Wang, Huize Mao
-- **Coaching Team**: Jingbo Shang, Qihao Ye, Zihan Wang
-- **Faculty Advisor**: [Jingbo Shang](https://shangjingbo1226.github.io/)
+
+{{< rawhtml >}}
+
+<div class="grid">
+{{< member-bio imgSrc="/images/jingbo.jpg" name="Shang Zhou" role="Co-president & Coach" bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla urna vestibulum, suscipit orci vitae, laoreet elit. Quisque velit ligula, vestibulum eget nulla id, dictum convallis dolor. Vivamus lobortis odio eros, et varius libero tincidunt sit amet. Phasellus id ante fringilla, ornare risus in, malesuada diam." >}}
+{{< member-bio imgSrc="/images/huize.png" name="Huize Mao" role="Co-president" bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla urna vestibulum, suscipit orci vitae, laoreet elit. Quisque velit ligula, vestibulum eget nulla id, dictum convallis dolor. Vivamus lobortis odio eros, et varius libero tincidunt sit amet. Phasellus id ante fringilla, ornare risus in, malesuada diam." >}}
+{{< member-bio imgSrc="/images/jingbo.jpg" name="Raymond Wang" role="Marketing director" bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla urna vestibulum, suscipit orci vitae, laoreet elit. Quisque velit ligula, vestibulum eget nulla id, dictum convallis dolor. Vivamus lobortis odio eros, et varius libero tincidunt sit amet. Phasellus id ante fringilla, ornare risus in, malesuada diam." >}}
+{{< member-bio imgSrc="/images/jingbo.jpg" name="Julie Huang" role="Marketing director" bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla urna vestibulum, suscipit orci vitae, laoreet elit. Quisque velit ligula, vestibulum eget nulla id, dictum convallis dolor. Vivamus lobortis odio eros, et varius libero tincidunt sit amet. Phasellus id ante fringilla, ornare risus in, malesuada diam." >}}
+{{< member-bio imgSrc="/images/ben.png" name="Benjamin Johnson" role="Technology director" bio="I'm a third-year Computer Science major at UCSD. I'm originally from LA. I enjoy coding, computers, hiking, and board games." >}}
+{{< member-bio imgSrc="/images/jingbo.jpg" name="Qihao Ye" role="Coach" bio="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras fringilla urna vestibulum, suscipit orci vitae, laoreet elit. Quisque velit ligula, vestibulum eget nulla id, dictum convallis dolor. Vivamus lobortis odio eros, et varius libero tincidunt sit amet. Phasellus id ante fringilla, ornare risus in, malesuada diam." >}}
+{{< member-bio imgSrc="/images/jingbo.jpg" name="Jingbo Shang" role="Faculty Advisor" bio="I’m an Associate Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I’m also a coach of the UCSD’s ACM-ICPC team." >}}
+</div>
+{{< /rawhtml >}}
 
 ## Competing Teams from UCSD
 
-{{< figure src="/images/all.jpeg" alt="allTeams.jpeg" width="975px" title="All teams @ICPC_2022-2023">}}
+{{< figure src="/images/ICPC2024Team_1.jpg" alt="Fallen Star" width="975px" title="Team Fallen Star">}}
 
-- Year 2022-2023: 5 teams competed in SoCal Regional, Team Fallen Star advanced to North America Championship, placing 5-th, bronze medal, top in West Devision; Fallen Star further advances to World Finals. Team Fallen Star members: Stanislaw Strzelecki, Thomas Li, Shang Zhou.
-
-- Year 2021-2022: 6 teams competed in SoCal Regional, Team 2 advanced to North America Championship. Team 2 members: Chengsong Diao, Dun Ma, and Shuangmu Hu.
-
-- Year 2020-2021: 5 teams competed in SoCal Regional, Team 1 advanced to North American Championship (NAC), placing 6-th, bronze medal. Team 1 members: Zihan Wang, Haihao Sun, Shuxin Chen.
+- In 2023-2024, Team Fallen Star (UCSD's Team 1) advanced to the North American Championship and placed 5th, earning a bronze medal. Team Fallen Star advanced to the World Finals, which will be in September 2024. The team members are Zexing Chen, Shang Zhou, and Stanislaw Strzelecki.
