@@ -29,4 +29,9 @@ Below are some resources for learning and practicing competitive programming.
 
 ## Past Lesson Slides
 
+- [Intro & Binary Search](/slides/binary_search_lesson.pdf)
+- [Shortest Paths](/slides/shortest_paths_lesson.pdf)
+- [Disjoin Set Union](/slides/dsu_lesson.pdf)
+- [Greedy Algorithms](/slides/greedy_lesson.pdf)
+- [Number Theory](/slides/number_theory_lesson.pdf)
 - [Dynamic Programming](/slides/dp_lesson.pdf)
