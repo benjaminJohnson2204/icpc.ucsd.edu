@@ -1,10 +1,10 @@
 ---
-title: "Resources"
+title: "Training Resources"
 date: 2020-12-26T11:34:28-08:00
 draft: false
 ---
 
-# Resources
+# Training Resources
 
 Below are some resources for learning and practicing competitive programming.
 

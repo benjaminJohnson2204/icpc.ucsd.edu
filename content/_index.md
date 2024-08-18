@@ -11,7 +11,3 @@ The [International Collegiate Programming Contest (ICPC)](https://en.wikipedia.o
 [North America Championship](https://nac.icpc.global/) and eventually to the [World Finals](<(https://icpc.global/)>).
 
 {{< figure src="/images/socal_2023.jpg" alt="SoCal 2023" width="975px" title="UCSD Teams at SoCal Regional 2023">}}
-
-# Upcoming Events
-
-- In Fall Quarter 2024, weekly meetings will be **every Tuesday from 6 p.m. to 8 p.m. at CSE basement B260**. At each meeting, we learn and practice a new algorithm/data structures concept through practice competition problems.
