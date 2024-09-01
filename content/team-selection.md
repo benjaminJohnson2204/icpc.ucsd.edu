@@ -10,4 +10,4 @@ Every year, our club can send 5-7 teams of 3 students each to compete at SoCal R
 
 We select teams by holding an individual contest at UCSD with similar problems and a time limit similar to SoCal. The top 21 contestants form teams of 3, then all teams are ranked by performance in the individual contest. The top teams (however many we are allowed to bring) go to SoCal.
 
-We usually hold the team selection contest in early-to-mid Fall quarter.
+We will hold our 2024 team selection contest in mid-October, exact date TBD. Additionally, we will hold individual and team practices before and after the team selection contest to prepare for SoCal.

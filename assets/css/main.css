@@ -6,8 +6,13 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
   font-size: 35px;
-  margin: 30px;
+  margin: 20px;
   color: goldenrod;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 48px;
 }
 .topbar {
   /* background-color: #006A96;  */
@@ -83,7 +88,7 @@ main li {
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  gap: 24px;
+  gap: 30px;
   width: 100%;
 }
 
