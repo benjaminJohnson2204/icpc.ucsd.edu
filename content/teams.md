@@ -26,4 +26,4 @@ The current board members are:
 
 {{< figure src="/images/ICPC2024Team_1.jpg" alt="Fallen Star" width="975px" title="Team Fallen Star">}}
 
-- In 2023-2024, Team Fallen Star (UCSD's Team 1) advanced to the North American Championship and placed 5th, earning a bronze medal. Team Fallen Star advanced to the World Finals, which will be in September 2024. The team members are Zexing Chen, Shang Zhou, and Stanislaw Strzelecki.
+- In 2023-2024, Team Fallen Star (UCSD's Team 1) advanced to the North American Championship and placed 5th, earning a bronze medal. Team Fallen Star advanced to the World Finals, and ranked 51st, earning an Honors rank. The team members are Zexing Chen, Shang Zhou, and Stanislaw Strzelecki.
