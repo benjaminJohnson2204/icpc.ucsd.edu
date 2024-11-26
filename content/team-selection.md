@@ -30,7 +30,7 @@ Please note that while we take precautions, the Contest Officials cannot guarant
 
 - **Programming Languages**: The official languages for the contest are C, C++, Java, Python 3, and Kotlin. Additional languages may be considered for future contests based on their support at the World Finals and participant demand.
 - **Submission Size Limit**: Each submitted source file must not exceed 300,000 bytes.
-- **Notifications**: Contestants will receive notifications about both their accepted and rejected submissions throughout the contest. Additionally, they will be informed about the total number of problems solved by other contestants, but details regarding which specific problems have been solved will not be disclosed.
+- **Notifications**: Contestants will receive notifications about both their accepted and rejected submissions throughout the contest. Additionally, they will be able to see which problems have been solved by which other contestants.
 - **Ranking Criteria**:
   1. **Number of Problems Solved**: The primary criterion for ranking is the number of problems successfully solved.
   2. **Total Elapsed Time**: In case of a tie, rankings will consider the total time taken to solve each problem, down to the second. A penalty of 1200 seconds (20 minutes) will be added for each rejected submission that leads to a successful solution later.

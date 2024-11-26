@@ -29,6 +29,17 @@ Below are some resources for learning and practicing competitive programming.
 
 ## Past Lesson Slides
 
+### Fall 2024
+
+- [Intro & Dynamic Programming](/slides/intro_and_dp.pdf)
+- [Geometry](/slides/geometry_lesson.pdf)
+- [Prefix Sum & Segment Tree](/slides/prefix_sum_segment_tree_lesson.pdf)
+- [Two Pointers, Sliding Window, & Merge Intervals](/slides/two_pointers_lesson.pdf)
+- [Binary & Bitset](/slides/binary_bitset_lesson.pdf)
+- [Randomized Algorithms](/slides/randomized_algorithms_lesson.pdf)
+
+### Winter/Spring 2024
+
 - [Intro & Binary Search](/slides/binary_search_lesson.pdf)
 - [Shortest Paths](/slides/shortest_paths_lesson.pdf)
 - [Disjoin Set Union](/slides/dsu_lesson.pdf)
